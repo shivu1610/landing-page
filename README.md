@@ -1,1 +1,1 @@
-live link = landing-page-two-blush-41.vercel.app
+live - (https://landing-page-two-blush-41.vercel.app/)
